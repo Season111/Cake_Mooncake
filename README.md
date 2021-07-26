@@ -4,6 +4,7 @@
 
 我们班在今年6月刚刚分班，我是本班班长，在最后一次聚会上我们用班费一起订了一个大蛋糕，上边写满了我们的名字，班主任的名字在中央被围聚着，在吃完蛋糕后我想能不能自己训练一个OCR文字识别系统让它可以认出蛋糕上的名字，但后来觉得对于初学者有点困难于是索性就训练个可以认出这是个蛋糕就行。
 
-![图片1](https://github.com/Season111/Cake_Mooncake/blob/main/images/1.png)
+<img src="https://github.com/Season111/Cake_Mooncake/blob/main/images/1.png" width="200" height="200" alt="图片1"/><br/>
 
-![识别结果](https://github.com/Season111/Cake_Mooncake/blob/main/images/%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C.png)
+<img src="https://github.com/Season111/Cake_Mooncake/blob/main/images/%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C.png" width="200" height="200" alt="识别结果"/><br/>
+
