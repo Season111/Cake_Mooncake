@@ -6,5 +6,5 @@
 
 <img src="https://github.com/Season111/Cake_Mooncake/blob/main/images/1.png" width="400" height="600" alt="图片1"/><br/>
 
-<img src="https://github.com/Season111/Cake_Mooncake/blob/main/images/%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C.png" width="200" height="200" alt="识别结果"/><br/>
+<img src="https://github.com/Season111/Cake_Mooncake/blob/main/images/%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C.png" width="420" height="320" alt="识别结果"/><br/>
 
