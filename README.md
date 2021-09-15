@@ -1,4 +1,5 @@
 # Cake_Mooncake
+![main_page_0](https://socialify.git.ci/Season111/Cake_Mooncake/image?language=1&owner=1&stargazers=1&theme=Light)
 ## 基于tensorflow2.5的糕点分辨系统
 本项目在fork至[宋老狗](https://gitee.com/song-laogou/vegetables_tf2.3) 在gitee上的相关代码。我是一名大一AI专业的学生，在暑假闲来无事想跑一跑tenorflow，正是这位老哥的相关教程让我一步一步入坑深度学习，PS：之后相关知识会认真学的，暑假只是想体验下tensorflow这个框架，感受下训练模型是什么感觉。
 
